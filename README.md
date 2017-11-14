@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gitapp
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# gitSerchingVueJS
+Demp for App
+>>>>>>> 450793e4892f3f7848e2ac83d84c744972f61eeb
